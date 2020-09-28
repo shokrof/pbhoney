@@ -1,5 +1,5 @@
 # pbhoney
-pbhoney(v15.8.24) code to build conda packages. I extracted the code from the debian packages becuase I wasnt able to get teh coude hosted on sourceforge working. 
+pbhoney(v15.8.24) code to build conda packages. I extracted the code from the debian packages becuase I wasnt able to build the code hosted on sourceforge.
 
 ## refrences
 1) https://sourceforge.net/projects/pb-jelly/
