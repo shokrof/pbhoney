@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2.7
 
 import argparse, sys
 from pbsuite.utils.setupLogging import *
