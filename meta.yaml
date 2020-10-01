@@ -21,6 +21,7 @@ requirements:
     - pbdagcon
     - numpy
     - networkx
+    - intervaltree_bio
 
 
 about:
